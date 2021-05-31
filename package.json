@@ -39,7 +39,7 @@
     "string-length": "^2.0.0",
     "text-table": "^0.2.0",
     "update-notifier": "^2.5.0",
-    "ws": "^6.1.2",
+    "ws": "^7.4.6",
     "xdg": "^0.1.1"
   },
   "devDependencies": {
